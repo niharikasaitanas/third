@@ -74,4 +74,6 @@ int main()
         printf("Taxi");
     else
         printf("Walk");
+printf("sef");
+printf("gf");
 }
